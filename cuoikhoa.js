@@ -22,11 +22,11 @@ var imgarr = [
       },
       {
         nameid: "ReZero",
-        img: "https://i.imgur.com/H3M3DMM.mp4",
+        img: "https://i.imgur.com/u69OgHY.png",
       },
       {
         nameid: "ReZero",
-        img: "https://i.imgur.com/MQXE703.mp4",
+        img: "https://i.imgur.com/4EURdvB.jpeg",
       },
       {
         nameid: "Dragon Ball",
@@ -50,7 +50,7 @@ var imgarr = [
       },
       {
         nameid: "One Punch Man",
-        img: "https://i.imgur.com/LV7H0EY.mp4",
+        img: "https://i.imgur.com/7Pcc9ed.jpeg",
       },
       {
         nameid: "One Punch Man",
@@ -82,11 +82,11 @@ var imgarr = [
       },
       {
         nameid: "KnY",
-        img: "https://i.imgur.com/k08VkU3.mp4",
+        img: "https://i.imgur.com/LQQSbzD.jpeg",
       },
       {
         nameid: "KnY",
-        img: "https://i.imgur.com/xjZsquw.mp4",
+        img: "https://i.imgur.com/gqWjvG5.jpeg",
       },
       {
         nameid: "KnY",
