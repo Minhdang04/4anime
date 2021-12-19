@@ -41,31 +41,31 @@ var imgarr = [
         img: "https://i.imgur.com/itE3Svq.gif",
       },
       {
-        nameid: "OPM",
+        nameid: "One Punch Man",
         img: "https://i.imgur.com/eaxENje.jpeg",
       },
       {
-        nameid: "OPM",
+        nameid: "One Punch Man",
         img: "https://i.imgur.com/V7Y2Yq2.jpeg",
       },
       {
-        nameid: "OPM",
+        nameid: "One Punch Man",
         img: "https://i.imgur.com/LV7H0EY.mp4",
       },
       {
-        nameid: "OPM",
+        nameid: "One Punch Man",
         img: "https://i.imgur.com/b9YK6Gc.jpeg",
       },
       {
-        nameid: "OPM",
+        nameid: "One Punch Man",
         img: "https://images6.fanpop.com/image/photos/43600000/Senritsu-no-Tatsumaki-one-punch-man-43676456-300-416.jpg",
       },
       {
-        nameid: "OPM",
+        nameid: "One Punch Man",
         img: "https://images6.fanpop.com/image/photos/43600000/Genos-one-punch-man-43631244-300-445.jpg",
       },
       {
-        nameid: "OPM",
+        nameid: "One Punch Man",
         img: "https://images6.fanpop.com/image/photos/43900000/monster-garou-one-punch-man-43970707-899-1431.jpg",
       },
       {
