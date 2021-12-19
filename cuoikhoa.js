@@ -1,4 +1,4 @@
-var searcharr = [{ name: "" }, { name: "OPM" }, { name: "DB" }, { name: "KnY" }, { name: "ReZero" }];
+var searcharr = [{ name: "One Punch Man" }, { name: "Dragon Ball" }, { name: "KnY" }, { name: "ReZero" }];
 var imgarr = [
     {
       nameid: "ReZero",
@@ -29,15 +29,15 @@ var imgarr = [
         img: "https://i.imgur.com/MQXE703.mp4",
       },
       {
-        nameid: "DB",
+        nameid: "Dragon Ball",
         img: "https://images6.fanpop.com/image/photos/35300000/-Gogeeta-dragon-ball-z-35367836-490-276.gif",
       },
       {
-        nameid: "DB",
+        nameid: "Dragon Ball",
         img: "https://images6.fanpop.com/image/photos/35700000/Vegeta-dragon-ball-z-35799481-762-1048.jpg",
       },
       {
-        nameid: "DB",
+        nameid: "Dragon Ball",
         img: "https://i.imgur.com/itE3Svq.gif",
       },
       {
